@@ -1,5 +1,3 @@
 # git-slack
 ss
-aaaa
-sss
-
+sasas
